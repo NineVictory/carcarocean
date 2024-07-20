@@ -1,14 +1,4 @@
-<h1>절대 작업 규칙</h1>
-1. 작업 시작 전 <b>pull</b>
-<br>
-2. 깃허브 메뉴의 <b>Projects</b> 들어가서 각자 맡을 파트를 <b>In Progress</b>로 변경 후 <b>Convert to issue</b> 티켓에서 <b>브랜치 생성</b> 후 이클립스에서 해당 브랜치로 접속 후 코드작성 시작
-<br>
-3. 코드 작성이 끝나면 <b>반드시 develop 브랜치</b>로 <b>pull request</b> 작성
-<br>
-4. 코드 리뷰 후 팀원 중 한명이 커밋 승인하면 끝
-<br>
-5. <b>main 브랜치는 팀장 외에 커밋 요청 금지</b>
-![image](https://github.com/Kimseungyeon98/carcarocean/assets/121033246/633fd00d-148a-4142-a897-b7c0bc45d57b)
+
 
 프로젝트 발표 자료: [CarCarOcean.pdf](https://github.com/user-attachments/files/15815660/CarCarOcean.pdf)
 
@@ -144,4 +134,16 @@
 >
 > 이런 방식은 처음에는 힘들었지만, 프로젝트가 끝난 지금 돌이켜보면 모두가 빠르게 성장할 수 있도록 도와준 유익한 시간이었습니다.
 > 팀원 각자가 자신의 역할을 수행하고 동시에 서로를 지원하며 함께 성장할 수 있는 좋은 경험이었습니다.
-> 
+
+# 팀원간 작업 규칙
+<h1>절대 작업 규칙</h1>
+1. 작업 시작 전 <b>pull</b>
+<br>
+2. 깃허브 메뉴의 <b>Projects</b> 들어가서 각자 맡을 파트를 <b>In Progress</b>로 변경 후 <b>Convert to issue</b> 티켓에서 <b>브랜치 생성</b> 후 이클립스에서 해당 브랜치로 접속 후 코드작성 시작
+<br>
+3. 코드 작성이 끝나면 <b>반드시 develop 브랜치</b>로 <b>pull request</b> 작성
+<br>
+4. 코드 리뷰 후 팀원 중 한명이 커밋 승인하면 끝
+<br>
+5. <b>main 브랜치는 팀장 외에 커밋 요청 금지</b>
+![image](https://github.com/Kimseungyeon98/carcarocean/assets/121033246/633fd00d-148a-4142-a897-b7c0bc45d57b)
