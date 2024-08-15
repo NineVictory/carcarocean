@@ -36,25 +36,26 @@
  >> ERD Cloud (DB 설계)
 > > 
 >## IDE
- >> Eclipse
+ >> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+ <img src="">
 > > 
 >## 프론트
- >> HTML
+ >> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
 > > 
- >> CSS
+ >> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
 > > 
- >> JAVASCRIPT
+ >> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
 > >
- >> BootStrap
+ >> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
 > >
- >> JSP
-> >
- >> jQuery
+ >> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><br>
 > >
  >> Ajax
 > > 
+ >> JSP
+> >
 >## 백엔드
- >> JAVA8
+ >> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 > >
  >> JDBC
 > >
@@ -63,7 +64,7 @@
  >> WebSocket
 > > 
 >## DB
- >> Oracle
+ >>  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 > >
 
 # ERD
