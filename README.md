@@ -50,18 +50,18 @@
 > >
  >> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><br>
 > >
- >> Ajax
+ >> <img src="https://img.shields.io/badge/Ajax-0c0d0c?style=for-the-badge&logo=Ajax&logoColor=white"><br>
 > > 
- >> JSP
+ >> <img src="https://img.shields.io/badge/JSP-0c0d0c?style=for-the-badge&logo=JSP&logoColor=white"><br>
 > >
 >## 백엔드
- >> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+ >> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
 > >
- >> JDBC
+ >> <img src="https://img.shields.io/badge/JDBC-0c0d0c?style=for-the-badge&logo=JDBC&logoColor=white"><br>
 > >
- >> Dispatcher Servlet
+ >> <img src="https://img.shields.io/badge/Dispatcher Servlet-0c0d0c?style=for-the-badge&logo=Dispatcher Servlet&logoColor=white"><br>
 > >
- >> WebSocket
+ >> <img src="https://img.shields.io/badge/WebSocket-0c0d0c?style=for-the-badge&logo=WebSocket&logoColor=white"><br>
 > > 
 >## DB
  >>  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
