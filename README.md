@@ -37,7 +37,6 @@
 > > 
 >## IDE
  >> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
- <img src="">
  
 >## 프론트
  >> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
